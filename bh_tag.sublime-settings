@@ -1,0 +1,29 @@
+{
+	// Determine which style of tag-matching to use in which syntax
+	"tag_mode": {
+		"xhtml": ["XML"],
+		"html": [
+			"HTML",
+			"HTML 5",
+			"PHP",
+			"HTML (Jinja Templates)",
+			"HTML (Rails)",
+			"HTML (Twig)",
+			"HTML (Django)",
+			"laravel-blade",
+			"Handlebars",
+			"AngularJS",
+			"Java Server Pages (JSP)",
+			"MVT"
+		],
+		"cfml": ["HTML+CFML", "ColdFusion", "ColdFusionCFC"]
+	},
+
+	// Tags that never have a closing
+	"single_tags": [
+		"area", "base", "basefont", "br", "col", "embed", "frame", "hr",
+		"img", "input", "isindex", "keygen", "link", "meta", "param",
+		"source", "track", "wbr",
+		"mvt:else", "mvt:elseif"
+	]
+}

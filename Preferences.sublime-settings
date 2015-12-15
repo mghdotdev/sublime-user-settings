@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Ciapre - Extended.tmTheme",
+	"copy_with_empty_selection": false,
+	"detect_slow_plugins": false,
+	"drag_text": false,
+	"font_face": "Consolas",
+	"font_size": 13,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_tags": false,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"set_unsaved_view_name": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray.sublime-theme",
+	"wide_caret": false
+}

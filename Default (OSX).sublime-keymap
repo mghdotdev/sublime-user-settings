@@ -1,0 +1,8 @@
+[
+	{ "keys": ["super+shift+r"], "command": "colorconvert" },
+	{ "keys": ["super+shift+d"], "command": "find_under_expand_skip" },
+
+	// Fix stupid ST3 Mac Bugs
+	{ "keys": ["super+n"], "command": "new_file" },
+	{ "keys": ["keypad_enter"], "command": "find_next", "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}] }
+]

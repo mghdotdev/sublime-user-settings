@@ -1,0 +1,17 @@
+{
+	"snippets": {
+		"css": {
+			"abbreviations": {
+				"@x-small": "480px",
+				"@small": "640px",
+				"@medium": "768px",
+				"@large": "960px",
+				"@x-large": "1170px"
+			}
+		}
+	},
+	"preferences" : {
+		"css.fuzzySearch": true
+	},
+	"disabled_keymap_actions": "toggle_comment"
+}

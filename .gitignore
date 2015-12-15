@@ -1,0 +1,13 @@
+# Ignore Package Control
+*.cache
+*.last-run
+*.merged-ca-bundle
+Package Control.sublime-settings
+*.system-ca-bundle
+*.user-ca-bundle
+
+# Ignore DefaultSyntax Plugin
+DefaultSyntax.py
+
+# Ignore Color Highlighter Cache
+Color Highlighter/
