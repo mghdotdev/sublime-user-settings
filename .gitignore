@@ -11,3 +11,6 @@ DefaultSyntax.py
 
 # Ignore Color Highlighter Cache
 Color Highlighter/
+
+# Ignore Gist Settings
+Gist.sublime-settings
