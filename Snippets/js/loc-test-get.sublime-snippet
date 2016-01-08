@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+if ( localStorage.getItem('test') === '1' ) {
+
+
+$1
+
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>loc-test-get</tabTrigger>
+	<!-- Optional: Description to show in the menu -->
+	<description>Debug</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js - string</scope>
+</snippet>

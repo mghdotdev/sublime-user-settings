@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:localStorage.setItem('test', '1')}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>loc-test-set</tabTrigger>
+	<!-- Optional: Description to show in the menu -->
+	<description>Debug</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js - string</scope>
+</snippet>
