@@ -6,7 +6,7 @@
 	{ "keys": ["super+n"], "command": "new_file" },
 	{ "keys": ["keypad_enter"], "command": "find_next", "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}] },
 
-	// Auto-pair Tilde Quotes
+	// Auto-pair Backquotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
 		[
 			{ "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
