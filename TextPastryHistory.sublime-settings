@@ -19,6 +19,33 @@
 			{
 				"args":
 				{
+					"text": "\\n1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\n1"
+			},
+			"key": "efe0d86db6d790626e080009769d5e47",
+			"label": "\\n1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i2"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i2"
+			},
+			"key": "7891b0b51759622728f621631ae19484",
+			"label": "\\i2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "\\i1"
 				},
 				"command": "text_pastry_step",
