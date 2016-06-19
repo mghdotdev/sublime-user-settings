@@ -20,5 +20,7 @@
 	"set_unsaved_view_name": true,
 	"spacegray_tabs_xlarge": true,
 	"theme": "Spacegray.sublime-theme",
-	"wide_caret": false
+	"wide_caret": false,
+	// "default_syntax": "Packages/HTML/HTML.tmLanguage"
+	"default_syntax": "Packages/Miva Template Language (MVT)/MVT.tmLanguage"
 }

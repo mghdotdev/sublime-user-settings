@@ -7,7 +7,7 @@ Package Control.sublime-settings
 *.user-ca-bundle
 
 # Ignore DefaultSyntax Plugin
-DefaultSyntax.py
+# DefaultSyntax.py
 
 # Ignore Color Highlighter Cache
 Color Highlighter/
