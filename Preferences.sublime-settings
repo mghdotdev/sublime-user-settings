@@ -5,6 +5,7 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/Ciapre - Extended.tmTheme",
 	"copy_with_empty_selection": false,
+	"default_syntax": "Packages/Miva Template Language (MVT)/MVT.tmLanguage",
 	"detect_slow_plugins": false,
 	"drag_text": false,
 	"font_face": "Consolas",
@@ -20,7 +21,5 @@
 	"set_unsaved_view_name": true,
 	"spacegray_tabs_xlarge": true,
 	"theme": "Spacegray.sublime-theme",
-	"wide_caret": false,
-	// "default_syntax": "Packages/HTML/HTML.tmLanguage"
-	"default_syntax": "Packages/Miva Template Language (MVT)/MVT.tmLanguage"
+	"wide_caret": false
 }
