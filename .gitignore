@@ -5,6 +5,7 @@
 Package Control.sublime-settings
 *.system-ca-bundle
 *.user-ca-bundle
+*.DS_STORE
 
 # Ignore DefaultSyntax Plugin
 # DefaultSyntax.py
