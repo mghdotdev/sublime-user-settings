@@ -1,0 +1,6 @@
+{
+	"cmd": ["mvc", "-B", "/usr/local/lib/msc/builtins", "$file"],
+	"file_regex": "mv$",
+	"selector": "source.miva_script",
+	"path": "/usr/local/bin/"
+}

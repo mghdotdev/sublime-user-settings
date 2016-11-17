@@ -1,0 +1,6 @@
+{
+	"cmd": ["mvprof", "-o", "$file_path/mvprof.txt", "$file", "&&", "open", "$file_path/mvprof.txt"],
+	"file_regex": "log$",
+	"selector": "text.plain",
+	"path": "/usr/local/bin"
+}
