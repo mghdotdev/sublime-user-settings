@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+/* ------------------------ x-small breakpoint ------------------------ */
+@media only screen and (min-width: 480px) {
+	.x-small-$1
+}
+/* ------------------------ small breakpoint ------------------------ */
+@media only screen and (min-width: 640px) {
+	.small-$2
+}
+/* ------------------------ medium breakpoint ------------------------ */
+@media only screen and (min-width: 768px) {
+	.medium-$3
+}
+/* ------------------------ large breakpoint ------------------------ */
+@media only screen and (min-width: 960px) {
+	.large-$4
+}
+/* ------------------------ x-large breakpoint ------------------------ */
+@media only screen and (min-width: 1170px) {
+	.x-large-$5
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>breakpoints</tabTrigger>
+	<!-- Optional: Description to show in the menu -->
+	<description>Snippet</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css - string</scope>
+</snippet>
