@@ -5,7 +5,7 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/Ciapre - Extended.tmTheme",
 	"copy_with_empty_selection": false,
-	"default_syntax": "Packages/Miva Template Language (MVT)/MVT.tmLanguage",
+	"default_syntax": "Packages/HTML/HTML.sublime-syntax",
 	"detect_slow_plugins": false,
 	"drag_text": false,
 	"font_face": "Consolas",
