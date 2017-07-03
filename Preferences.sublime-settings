@@ -16,6 +16,8 @@
 		"Vintage"
 	],
 	"match_tags": false,
+	"material_theme_accent_indigo": true,
+	"material_theme_contrast_mode": true,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
 	"set_unsaved_view_name": true,

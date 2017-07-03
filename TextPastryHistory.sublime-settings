@@ -33,6 +33,19 @@
 			{
 				"args":
 				{
+					"text": "\\i1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i1"
+			},
+			"key": "44af05471fdf9836e7c6ff77e952901b",
+			"label": "\\i1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "\\i2"
 				},
 				"command": "text_pastry_step",
@@ -46,22 +59,35 @@
 			{
 				"args":
 				{
-					"text": "\\i1"
+					"text": "\\i000"
 				},
 				"command": "text_pastry_step",
-				"text": "\\i1"
+				"text": "\\i000"
 			},
-			"key": "44af05471fdf9836e7c6ff77e952901b",
-			"label": "\\i1"
+			"key": "e2092ef12265d768fbf793c42e1c416c",
+			"label": "\\i000"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "222"
+				},
+				"command": "text_pastry_step",
+				"text": "222"
+			},
+			"key": "bcbe3365e6ac95ea2c0343a2395834dd",
+			"label": "222"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "\\i1"
+			"text": "222"
 		},
 		"command": "text_pastry_step",
-		"text": "\\i1"
+		"text": "222"
 	}
 }
