@@ -8,6 +8,14 @@
 				"@large": "960px",
 				"@x-large": "1170px"
 			}
+		},
+		"html": {
+			"abbreviations": {
+				"mvtfe": "<mvt:foreach iterator=\"\" array=\"\">",
+				"mvti": "<mvt:if expr=\"\">",
+				"mvtw": "<mvt:while expr=\"\">",
+				"mvtc": "<mvt:comment>"
+			}
 		}
 	},
 	"preferences" : {
