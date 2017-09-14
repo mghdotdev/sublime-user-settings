@@ -3,7 +3,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Ciapre - Extended.tmTheme",
+	"color_scheme": "Packages/Ciapre Color Scheme/CiapreBlack.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_syntax": "Packages/Miva Template Language (MVT)/MVT.tmLanguage",
 	"detect_slow_plugins": false,
@@ -22,6 +22,6 @@
 	"preview_on_click": false,
 	"set_unsaved_view_name": true,
 	"spacegray_tabs_xlarge": true,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"wide_caret": false
 }
