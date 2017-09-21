@@ -112,6 +112,19 @@
 			{
 				"args":
 				{
+					"text": "3"
+				},
+				"command": "text_pastry_step",
+				"text": "3"
+			},
+			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+			"label": "3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "1"
 				},
 				"command": "text_pastry_step",
