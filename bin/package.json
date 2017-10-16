@@ -1,0 +1,13 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "Just a random playground.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Hegler <max@maxhegler.com> (http://maxhegler.com)",
+  "license": "ISC",
+  "dependencies": {
+    "json-dup-key-validator": "^1.0.2"
+  }
+}

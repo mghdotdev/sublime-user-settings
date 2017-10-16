@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+(function(${1:mvtjs}) {
+	$2
+}(window.$1 || (window.$1 = {})));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>namespace</tabTrigger>
+	<!-- Optional: Description to show in the menu -->
+	<description>Namespace</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js - string</scope>
+</snippet>
