@@ -1,5 +1,5 @@
 [
-	{ "keys": ["super+shift+r"], "command": "color_convert", "context": [{"key": "color_highlighter.color_convert"}] },
+	{ "keys": ["super+shift+r"], "command": "color_highlighter_previous_color", "context": [{"key": "color_highlighter.color_highlighter_previous_color"}] },
 	{ "keys": ["super+shift+d"], "command": "find_under_expand_skip" },
 	{ "keys": ["super+2"], "command": "expand_selection", "args": {"to": "scope"} },
 

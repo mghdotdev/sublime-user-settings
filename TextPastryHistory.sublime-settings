@@ -128,6 +128,19 @@
 					"text": "1"
 				},
 				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
 				"text": "1"
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
