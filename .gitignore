@@ -18,3 +18,6 @@ Gist.sublime-settings
 
 # Ingore NodeJS Modules
 node_modules/
+
+oscrypto-ca-bundle.crt
+TextPastryHistory.sublime-settings
