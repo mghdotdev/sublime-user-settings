@@ -4,26 +4,23 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Ciapre Color Scheme/CiapreBlack.tmTheme",
+	"color_scheme": "Packages/User/Color Schemes/Oceanic Next (Ciapre).tmTheme",
 	"copy_with_empty_selection": false,
 	"default_syntax": "Packages/Miva IDE/MVT.tmLanguage",
-	"detect_slow_plugins": false,
 	"drag_text": false,
 	"enable_tab_scrolling": false,
-	"font_face": "Consolas",
-	"font_size": 13,
-	"highlight_line": false,
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"match_tags": false,
-	"material_theme_accent_indigo": true,
-	"material_theme_contrast_mode": true,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
-	"set_unsaved_view_name": true,
-	"spacegray_tabs_xlarge": true,
-	"theme": "Adaptive.sublime-theme",
-	"wide_caret": false
+	"theme": "Adaptive.sublime-theme"
 }
