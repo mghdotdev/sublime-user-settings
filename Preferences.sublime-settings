@@ -22,5 +22,6 @@
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
+	"word_separators": "./\\()\"'-,.;<>~!@#$%^&*|+=[]{}`~?"
 }
