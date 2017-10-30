@@ -24,9 +24,9 @@
 		<string>#a7adba</string>
 	</dict>
 	<key>name</key>
-	<string>Oceanic Next (Ciapre)</string>
+	<string>Ciapre Next</string>
 	<key>semanticClass</key>
-	<string>theme.dark.oceanic_next_ciapre</string>
+	<string>theme.dark.ciapre_next</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -35,21 +35,21 @@
 				<key>activeGuide</key>
 				<string>#FBC95A</string>
 				<key>background</key>
-				<string>#1B2B34</string>
+				<string>#222222</string>
 				<key>caret</key>
-				<string>#c0c5ce</string>
+				<string>#A89770</string>
 				<key>foreground</key>
-				<string>#CDD3DE</string>
+				<string>#C2B790</string>
 				<key>guide</key>
-				<string>#65737F</string>
+				<string>#BFBFBF5E</string>
 				<key>invisibles</key>
-				<string>#65737e</string>
+				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#65737e55</string>
+				<string>#1B324A5E</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#1B324A</string>
 				<key>stackGuide</key>
-				<string>#4F5B66</string>
+				<string>#1B324A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -60,7 +60,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#65737e</string>
+				<string>#696969</string>
 			</dict>
 		</dict>
 		<dict>
@@ -71,7 +71,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDD3DE</string>
+				<string>#E64976</string>
 			</dict>
 		</dict>
 		<dict>
@@ -82,25 +82,25 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C594C5</string>
+				<string>#C24D43</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Operator, Misc</string>
 			<key>scope</key>
-			<string>keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution</string>
+			<string>keyword.operator, constant.other.color, punctuation.separator.inheritance.php, punctuation.section.embedded, keyword.other.template, keyword.other.substitution</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5FB3B3</string>
+				<string>#D6D6D6</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag</string>
+			<string>Markup Tag</string>
 			<key>scope</key>
-			<string>entity.name.tag, meta.tag.sgml</string>
+			<string>entity.name.tag, meta.tag, declaration.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -115,7 +115,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699CC</string>
+				<string>#72825C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -150,26 +150,25 @@
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
-				<string>#99C794</string>
+				<string>#BAB972</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Class, Support</string>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter</string>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAC863</string>
+				<string>#FFCC33</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Sub-methods</string>
 			<key>scope</key>
-			<string>entity.name.module.js, variable.import.parameter.js, variable.other.class.js,
-markup.deleted.git_gutter</string>
+			<string>entity.name.module.js, variable.import.parameter.js, variable.other.class.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -219,40 +218,7 @@ markup.deleted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BA9BB8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Inserted</string>
-			<key>scope</key>
-			<string>markup.inserted</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#99C794</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deleted</string>
-			<key>scope</key>
-			<string>markup.deleted</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#EC5F67</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Changed</string>
-			<key>scope</key>
-			<string>markup.changed</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#BB80B3</string>
+				<string>#60827E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +229,7 @@ markup.deleted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5FB3B3</string>
+				<string>#E8BF6A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +240,7 @@ markup.deleted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5FB3B3</string>
+				<string>#E8BF6A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +251,7 @@ markup.deleted.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline</string>
+				<string>underline </string>
 			</dict>
 		</dict>
 		<dict>
@@ -437,13 +403,287 @@ markup.deleted.git_gutter</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Meta Preprocessor</string>
+			<string>Deleted</string>
+			<key>scope</key>
+			<string>markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e74c3c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f1c40f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup XML Declaration</string>
+			<key>scope</key>
+			<string>meta.tag.preprocessor.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#676767</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup DOCTYPE</string>
+			<key>scope</key>
+			<string>meta.tag.sgml.doctype, meta.tag.sgml.doctype entity, meta.tag.sgml.doctype string, meta.tag.preprocessor.xml, meta.tag.preprocessor.xml entity, meta.tag.preprocessor.xml string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#676767</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup DTD</string>
+			<key>scope</key>
+			<string>string.quoted.docinfo.doctype.DTD</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC695F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Preprocessor Line</string>
 			<key>scope</key>
 			<string>meta.preprocessor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#896492</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Type Name</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6B84A3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inserted</string>
+			<key>scope</key>
+			<string>markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2ecc71</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ignored&#x2f;Untracked</string>
+			<key>scope</key>
+			<string>markup.ignored, markup.untracked</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BFBFBF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css.id</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.id</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6B84A3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css.class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class, entity.other.less.mixin</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#38add8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css.element</string>
+			<key>scope</key>
+			<string>keyword.control.html.elements</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fc3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css.string</string>
+			<key>scope</key>
+			<string>meta.attribute-selector.css string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF950A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function Parameter</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6D948D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Heading</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EBEB91</string>
+				<key>fontStyle</key>
+				<string> bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Quote</string>
+			<key>scope</key>
+			<string>markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EBEB91</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: List</string>
+			<key>scope</key>
+			<string>markup.list</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EBEB91</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded Source</string>
+			<key>scope</key>
+			<string>text source, string.unquoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B9AA99</string>
+				<key>background</key>
+				<string>#1D1D1D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded Embedded Source</string>
+			<key>scope</key>
+			<string>text source string.unquoted, text source text source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D6BFB8</string>
+				<key>background</key>
+				<string>#232323</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+				<key>background</key>
+				<string>#990000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid Trailing Whitespace</string>
+			<key>scope</key>
+			<string>invalid.deprecated.trailing-whitespace</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+				<key>background</key>
+				<string>#FFD0D0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Section</string>
+			<key>scope</key>
+			<string>meta.section entity.name.section, declaration.section entity.name.section</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B9AA99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function argument and result types</string>
+			<key>scope</key>
+			<string>storage.type.method</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#70727E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inherited Class Name</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B9AA99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Preprocessor Directive</string>
+			<key>scope</key>
+			<string>keyword.control.import</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C594C5</string>
 			</dict>
 		</dict>
 	</array>
