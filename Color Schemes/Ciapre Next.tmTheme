@@ -120,6 +120,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function Braces</string>
+			<key>scope</key>
+			<string>meta.group.braces.round.function.arguments</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C2B790</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Other Variable, String Link</string>
 			<key>scope</key>
 			<string>support.other.variable, string.other.link</string>
@@ -171,6 +182,8 @@
 			<string>entity.name.module.js, variable.import.parameter.js, variable.other.class.js</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#EC5F67</string>
 			</dict>
