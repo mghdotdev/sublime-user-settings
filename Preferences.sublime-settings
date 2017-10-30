@@ -10,15 +10,21 @@
 	"drag_text": false,
 	"enable_tab_scrolling": false,
 	"font_face": "Source Code Pro",
+<<<<<<< HEAD
 	"font_size": 13,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+=======
+	"font_size": 12,
+>>>>>>> origin/master
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
