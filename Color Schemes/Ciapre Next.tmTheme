@@ -120,9 +120,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function Braces</string>
+			<string>Punctuation, Function Braces</string>
 			<key>scope</key>
-			<string>meta.group.braces.round.function.arguments</string>
+			<string>punctuation - punctuation.definition.tag, meta.group.braces.round.function.arguments</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -198,7 +198,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#EC5F67</string>
+				<string>#E64976</string>
 			</dict>
 		</dict>
 		<dict>
