@@ -17,8 +17,8 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
