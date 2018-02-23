@@ -2,7 +2,7 @@
 	<content><![CDATA[
 (function(${1:mvtjs}) {
 	$2
-}(window.$1 || (window.$1 = {})));
+})( window.$1 || (window.$1 = {}) );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>namespace</tabTrigger>

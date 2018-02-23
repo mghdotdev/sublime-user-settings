@@ -4,7 +4,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Color Schemes/Ciapre Next.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Ciapre Next (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"default_syntax": "Packages/Miva IDE/MVT.tmLanguage",
 	"drag_text": false,
@@ -22,5 +22,6 @@
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
+	"show_tab_close_buttons": false,
 	"theme": "Adaptive.sublime-theme"
 }
