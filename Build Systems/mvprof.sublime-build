@@ -1,6 +1,5 @@
 {
 	"cmd": ["mvprof", "-o", "$file_path/mvprof.txt", "$file"],
 	"file_regex": "log$",
-	"selector": "text.plain",
-	"path": "/usr/local/bin/"
+	"selector": "text.plain"
 }

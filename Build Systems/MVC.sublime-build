@@ -1,6 +1,5 @@
 {
-	"cmd": ["mvc", "-B", "/usr/local/lib/msc/builtins", "$file"],
+	"cmd": ["mvc", "$file"],
 	"file_regex": "mv$",
-	"selector": "text.mv",
-	"path": "/usr/local/bin/"
+	"selector": "text.mv"
 }
