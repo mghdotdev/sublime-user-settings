@@ -2,7 +2,6 @@
 *.cache
 *.last-run
 *.merged-ca-bundle
-Package Control.sublime-settings
 *.system-ca-bundle
 *.user-ca-bundle
 *.DS_STORE
