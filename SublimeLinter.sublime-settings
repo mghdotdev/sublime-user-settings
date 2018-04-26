@@ -1,0 +1,54 @@
+// SublimeLinter Settings - User
+{
+	"debug": false,
+	"linters": {
+		"csslint":
+		{
+			"disable": true,
+			"args": [],
+			"excludes": []
+		},
+		"eslint":
+		{
+			"disable": false,
+			"args": [],
+			"excludes": []
+		},
+		"json":
+		{
+			"disable": false,
+			"args": [],
+			"excludes": []
+		},
+		"sublimesyntax":
+		{
+			"disable": false,
+			"args": [],
+			"excludes": []
+		},
+		"bashate":
+		{
+			"disable": false,
+			"args": [
+				"-i",
+				"E002,E003,E006"
+			],
+			"excludes": []
+		},
+		"htmlhint":
+		{
+			"disable": false,
+			"args": [
+				"--config",
+				"~/Documents/workspace/htmlhint.conf"
+			],
+			"excludes": []
+		},
+		"php":
+		{
+			"disable": false,
+			"args": [],
+			"excludes": []
+		}
+	}
+}

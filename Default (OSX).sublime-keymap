@@ -3,10 +3,12 @@
 	{ "keys": ["super+shift+r"], "command": "color_highlighter_previous_color", "context": [{"key": "color_highlighter.color_highlighter_previous_color"}] },
 	{ "keys": ["super+shift+d"], "command": "find_under_expand_skip" },
 	{ "keys": ["super+2"], "command": "expand_selection", "args": {"to": "scope"} },
+	{ "keys": ["ctrl+h"], "command": "dash_doc"},
 
 	// Fix stupid ST3 Mac Bugs
 	{ "keys": ["super+n"], "command": "new_file" },
 	{ "keys": ["keypad_enter"], "command": "find_next", "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}] },
+
 
 	// Auto-pair Backquotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
