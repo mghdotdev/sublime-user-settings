@@ -1,0 +1,56 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlignTab",
+		"ApacheConf",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Case Conversion",
+		"ChannelRepositoryTools",
+		"Color Highlighter",
+		"Console Wrap",
+		"DashDoc",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"Javascript Beautify",
+		"JSONLint",
+		"LiveStyle",
+		"Material Theme",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"plist",
+		"Rename Buffer",
+		"Seti_UX",
+		"Slugify",
+		"SublimeLinter",
+		"SublimeLinter-contrib-bashate",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"tabr",
+		"TabsExtra",
+		"Terminal",
+		"Text Pastry",
+		"Trimmer",
+		"URLEncode",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+	]
+}
