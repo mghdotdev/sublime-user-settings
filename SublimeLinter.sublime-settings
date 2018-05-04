@@ -10,7 +10,7 @@
 		},
 		"eslint":
 		{
-			"disable": false,
+			"disable": true,
 			"args": [],
 			"excludes": []
 		},
