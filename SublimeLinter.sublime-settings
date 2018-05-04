@@ -43,12 +43,17 @@
 				"~/Documents/workspace/htmlhint.conf"
 			],
 			"excludes": []
-		},
-		"php":
-		{
-			"disable": false,
-			"args": [],
-			"excludes": []
 		}
+	},
+	"syntax_map":
+	{
+		"html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "javascript (babel)": "javascript",
+        "magicpython": "python",
+        "python django": "python",
+        "pythonimproved": "python",
+		"mvt": "html"
 	}
 }
