@@ -37,7 +37,7 @@
 		},
 		"htmlhint":
 		{
-			"disable": false,
+			"disable": true,
 			"args": [
 				"--config",
 				"~/Documents/workspace/htmlhint.conf"

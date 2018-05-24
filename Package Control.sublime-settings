@@ -9,8 +9,10 @@
 		"A File Icon",
 		"AlignTab",
 		"ApacheConf",
+		"ayu",
 		"Babel",
 		"Babel Snippets",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
 		"ChannelRepositoryTools",
@@ -45,8 +47,7 @@
 		"Text Pastry",
 		"Trimmer",
 		"URLEncode",
-		"View In Browser",
-		"Vue Syntax Highlight"
+		"View In Browser"
 	],
 	"repositories":
 	[
