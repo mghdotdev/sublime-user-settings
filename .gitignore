@@ -4,10 +4,9 @@
 *.merged-ca-bundle
 *.system-ca-bundle
 *.user-ca-bundle
-*.DS_STORE
 
-# Ignore DefaultSyntax Plugin
-# DefaultSyntax.py
+# Ignore System dot files
+*.DS_STORE
 
 # Ignore Color Highlighter Cache
 Color Highlighter/
@@ -18,5 +17,6 @@ Gist.sublime-settings
 # Ingore NodeJS Modules
 node_modules/
 
+# Ingore misc module files
 oscrypto-ca-bundle.crt
 TextPastryHistory.sublime-settings

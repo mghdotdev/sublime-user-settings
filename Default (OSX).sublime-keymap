@@ -44,5 +44,5 @@
 			{ "key": "selector", "operator": "not_equal", "operand": "punctuation.definition.string.begin", "match_all": true },
 			{ "key": "eol_selector", "operator": "not_equal", "operand": "string.quoted.double - punctuation.definition.string.end", "match_all": true },
 		]
-	},
+	}
 ]
