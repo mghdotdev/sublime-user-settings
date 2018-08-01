@@ -1,0 +1,52 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": null,
+					"pattern": "[a-z]",
+					"use_regex": true
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "[a-z]"
+			},
+			"key": "0db2d54f39d8eabc602ba9efbfce6d70",
+			"label": "[a-z]"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": null,
+					"pattern": ".*(?=,)",
+					"use_regex": true
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": ".*(?=,)"
+			},
+			"key": "878ff7409984c2134b1e0c0f37dc41f8",
+			"label": ".*(?=,)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "selection",
+			"keep": true,
+			"operator": null,
+			"pattern": ".*(?=,)",
+			"use_regex": true
+		},
+		"command": "text_pastry_modify_selection",
+		"pattern": ".*(?=,)"
+	}
+}

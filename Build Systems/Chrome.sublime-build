@@ -1,0 +1,5 @@
+{
+	"cmd": ["open", "-a", "Google Chrome", "$file"],
+	"file_regex": "html$",
+	"selector": "text.html"
+}

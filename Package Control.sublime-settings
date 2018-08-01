@@ -24,6 +24,7 @@
 		"Emmet",
 		"Gist",
 		"GitGutter",
+		"Hasher",
 		"Javascript Beautify",
 		"JSONLint",
 		"LiveStyle",
@@ -47,8 +48,7 @@
 		"Terminal",
 		"Text Pastry",
 		"Trimmer",
-		"URLEncode",
-		"View In Browser"
+		"URLEncode"
 	],
 	"repositories":
 	[
