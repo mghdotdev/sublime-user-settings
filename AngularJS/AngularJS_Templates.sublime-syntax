@@ -1,0 +1,47 @@
+%YAML 1.2
+---
+name: AngularJS Template
+file_extensions:
+  - html
+  - ng.html
+scope: text.angularjs
+
+contexts:
+  main:
+    - match: ""
+      push: "Packages/HTML/HTML.sublime-syntax"
+      with_prototype:
+
+        - include: angular-attributes
+        - include: angular-expression 
+
+        
+        
+  # =-======================== Angular ========================-= #
+  angular-expression:
+    - match: (\{\{)
+      captures:
+        1: keyword.operator.angularjs meta.group.braces.curly.angularjs meta.brace.curly.begin.angularjs
+      embed: scope:source.js.babel
+      embed_scope: source.js.babel.embedded.html
+      escape: (\}\})
+      escape_captures:
+        1: keyword.operator.angularjs meta.group.braces.curly.angularjs meta.brace.curly.end.angularjs
+
+
+  angular-attributes:
+    - match: (?i)(?<=[^=])\b((data\-)?ng\-[a-z-]+)\s*(=)\s*(")
+      captures:
+        1: entity.other.attribute-name.angularjs
+        2: entity.other.attribute-name.angularjs
+        3: punctuation.separator.key-value.angularjs
+        4: attribute-value.angularjs punctuation.definition.string.begin.angularjs
+      push:
+        - match: (")
+          scope: attribute-value.angularjs punctuation.definition.string.end.angularjs
+          pop: true
+        - include: angular-expression
+        - match: (?=\S)
+          embed: scope:source.js.babel
+          embed_scope: source.js.babel.embedded.html
+          escape: (?=")

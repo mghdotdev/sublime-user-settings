@@ -1,0 +1,6 @@
+{
+	"indent_with_tabs": true,
+	"space_after_anon_function": false,
+	"keep_array_indentation": true,
+	"brace_style": "end-expand"
+}

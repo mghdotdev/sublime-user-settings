@@ -9,6 +9,12 @@
 	{ "keys": ["super+n"], "command": "new_file" },
 	{ "keys": ["keypad_enter"], "command": "find_next", "context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}] },
 
+	// Insert `❍ ` snippet
+	{ "keys": ["super+i"], "command": "insert_snippet", "args": {"contents": "❍ "}, "context":
+		[
+			{ "key": "selector", "operator": "not_equal", "operand": "text.todo" }
+		]
+	},
 
 	// Auto-pair Backquotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: JavaScript (Babel)(AngularJS Link)
+scope: source.js.babel
+hidden: true
+
+contexts:
+  main:
+    - match: ""
+      push: "Packages/Babel/JavaScript (Babel).sublime-syntax"
