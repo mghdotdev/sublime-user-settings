@@ -4,7 +4,7 @@ console.time( '${1:Time Label}' );
 
 $2
 
-console.timeEnd();
+console.timeEnd( '${1:Time Label}' );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ctime</tabTrigger>

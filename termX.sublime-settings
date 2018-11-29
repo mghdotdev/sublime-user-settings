@@ -1,0 +1,6 @@
+// termX Settings - User
+{
+	"terminal": "hyper",
+	"directory_mode" : "file",
+	"debug": true
+}
