@@ -38,6 +38,7 @@
 	"ignored_packages":
 	[
 		"GitGutter",
+		"Markdown",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
