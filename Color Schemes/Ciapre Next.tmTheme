@@ -616,6 +616,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Embedded Source Quoted String</string>
+			<key>scope</key>
+			<string>source string.quoted</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#BAB972</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Embedded Embedded Source</string>
 			<key>scope</key>
 			<string>text source string.unquoted, text source text source</string>

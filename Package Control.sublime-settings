@@ -50,10 +50,11 @@
 		"SublimeLinter-json",
 		"tabr",
 		"TabsExtra",
-		"Terminal",
+		"termX",
 		"Text Pastry",
 		"Trimmer",
-		"URLEncode"
+		"URLEncode",
+		"Vue Syntax Highlight"
 	],
 	"repositories":
 	[
