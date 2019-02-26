@@ -31,7 +31,7 @@
 		"JSONLint",
 		"LiveReload",
 		"LiveStyle",
-		"MarkdownPreview",
+		"MarkdownEditing",
 		"Material Theme",
 		"One Half Color Schemes",
 		"Package Control",
@@ -54,7 +54,7 @@
 		"Text Pastry",
 		"Trimmer",
 		"URLEncode",
-		"Vue Syntax Highlight"
+		"View In Browser"
 	],
 	"repositories":
 	[

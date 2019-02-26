@@ -39,7 +39,9 @@
 	[
 		"GitGutter",
 		"Vintage",
-		"Color Highlighter"
+		"Color Highlighter",
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.timeEnd();
+console.timeEnd( ${1:'${2:Time Label}'} );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ctimeend</tabTrigger>

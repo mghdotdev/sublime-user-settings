@@ -34,19 +34,36 @@
 			},
 			"key": "878ff7409984c2134b1e0c0f37dc41f8",
 			"label": ".*(?=,)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "both",
+					"keep": true,
+					"operator": null,
+					"pattern": "[^\\=]*?(?=\\=\\=)",
+					"use_regex": true
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "[^\\=]*?(?=\\=\\=)"
+			},
+			"key": "844ce1e59651b3f6a5a2cb02527ed193",
+			"label": "[^\\=]*?(?=\\=\\=)"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"context": "selection",
+			"context": "both",
 			"keep": true,
 			"operator": null,
-			"pattern": ".*(?=,)",
+			"pattern": "[^\\=]*?(?=\\=\\=)",
 			"use_regex": true
 		},
 		"command": "text_pastry_modify_selection",
-		"pattern": ".*(?=,)"
+		"pattern": "[^\\=]*?(?=\\=\\=)"
 	}
 }

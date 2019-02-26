@@ -1,5 +1,5 @@
 // termX Settings - User
 {
-	
-	"terminal": "hyper"
+	"terminal": "hyper",
+	"directory_mode" : "file"
 }
