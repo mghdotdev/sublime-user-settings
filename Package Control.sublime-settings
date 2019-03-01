@@ -54,7 +54,8 @@
 		"Text Pastry",
 		"Trimmer",
 		"URLEncode",
-		"View In Browser"
+		"View In Browser",
+		"Vue Syntax Highlight"
 	],
 	"repositories":
 	[

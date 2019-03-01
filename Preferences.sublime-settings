@@ -38,8 +38,6 @@
 	"ignored_packages":
 	[
 		"GitGutter",
-		"Vintage",
-		"Color Highlighter",
 		"Markdown",
 		"Vintage"
 	],
