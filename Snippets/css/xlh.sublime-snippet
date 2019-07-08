@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[x-lh-$1 {
+	line-height $2;
+}
+
+$0]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xlh</tabTrigger>
+	<!-- Optional: Description to show in the menu -->
+	<description>Line Height Helper</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css - string</scope>
+</snippet>

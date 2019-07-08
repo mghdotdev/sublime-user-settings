@@ -16,7 +16,7 @@
 		"*.jar",
 		"*.zip",
 		".svn/",
-		".git/",
+		".git",
 		".hg/",
 		"CVS/",
 		"node_modules/",
@@ -37,7 +37,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"GitGutter",
 		"Markdown",
 		"Vintage"
 	],
